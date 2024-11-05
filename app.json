@@ -8,7 +8,7 @@
         "Bot"
     ],
     "website": "https://www.cyberindonesia001.xyz",
-    "repository": "https://github.com/zYxDevs/BinCheckerBot",
+    "repository": "https://github.com/joeumano/BinCheckerBot",
     "success_url": "https://t.me/SpreadNetworks",
     "env": {
         "API_TOKEN": {
